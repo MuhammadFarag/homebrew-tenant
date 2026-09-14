@@ -1,8 +1,8 @@
 class Tenant < Formula
   desc "Provision isolated macOS accounts with per-tenant firewall egress control"
   homepage "https://github.com/MuhammadFarag/tenant"
-  url "https://github.com/MuhammadFarag/tenant/releases/download/v0.1.0-alpha.8/tenant-v0.1.0-alpha.8-aarch64-apple-darwin.tar.gz"
-  sha256 "90a0762da95c48c3be2f4b2ddad6cd774a10e61d8d93209fd3ef4890cc5d3a9b"
+  url "https://github.com/MuhammadFarag/tenant/releases/download/v0.1.0-alpha.9/tenant-v0.1.0-alpha.9-aarch64-apple-darwin.tar.gz"
+  sha256 "828f5435ab2e06debdc41a5b222e3de935468c5003e35d3fc6dc09856d653e1f"
   license "Apache-2.0"
 
   # Release binaries are published only for Apple Silicon (aarch64-apple-darwin).
